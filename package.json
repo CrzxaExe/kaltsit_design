@@ -11,5 +11,8 @@
   "devDependencies": {
     "@tailwindcss/cli": "^4.1.6",
     "tailwindcss": "^4.1.6"
+  },
+  "dependencies": {
+    "@vercel/edge": "^1.2.1"
   }
 }
