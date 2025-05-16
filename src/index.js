@@ -126,6 +126,9 @@ const content = {
   </div>`,
 
   s2: `<h1 class="mt-4 text-2xl lg:text-3xl w-full">Skill: Command: Tactical Coordination </h1>
+
+  <img src="https://arknights.wiki.gg/images/thumb/0/05/Rank_10.png/30px-Rank_10.png?5a915c" alt="m3" />
+
   <div class="flex flex-col lg:flex-row gap-2 w-full mt-4">
     <div class="lg:w-[7.6%] min-h-full">
         <img
@@ -149,6 +152,9 @@ const content = {
   </div>`,
 
   s3: `<h1 class="mt-4 text-2xl lg:text-3xl w-full">Skill: Command: Meltdown </h1>
+
+  <img src="https://arknights.wiki.gg/images/thumb/0/05/Rank_10.png/30px-Rank_10.png?5a915c" alt="m3" />
+
   <div class="flex flex-col lg:flex-row gap-2 w-full mt-4">
     <div class="lg:w-[7.6%] min-h-full">
         <img
